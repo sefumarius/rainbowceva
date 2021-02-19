@@ -1,0 +1,30 @@
+{
+  "name": "onelitghost",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.5.1",
+    "ytdl-core": "^1.0.0",
+    "simple-youtube-api": "^5.2.1",
+    "fs": "^0.0.2",
+    "sketch": "^0.2.0",
+    "ms": "^2.1.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
